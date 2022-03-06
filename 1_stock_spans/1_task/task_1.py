@@ -10,7 +10,7 @@
 class Stack():
   def __init__(self):
     self.stack = []
-  
+      
   """ Add element to top of stack. """
   def push(self, i):
     self.stack.append(i)
