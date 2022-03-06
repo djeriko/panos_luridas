@@ -1,9 +1,8 @@
-## **REALWORLD ALGORITHMS**
+## **REALWORLD ALGORITHMS. A beginner's guide**
 
-**A beginner's guide**
-Panos Louridas
+_Panos Louridas_
 
-My own path to read and understand this book.
+My own way of reading and understanding this book. I will mark the completed parts in the table of contents, do the exercises and save them in the folders of this repository.
 
 ###### 1. Stock Spans
 
