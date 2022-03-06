@@ -10,16 +10,18 @@ My own path to read and understand this book.
   <li>1. Stock Spans</li>
   <ul>
    <li>✅ 1.1 Algorithms</li>
-   <li>✅ 1.2 Running Time and Complexity
-   <li>✅ 1.3 Stock Span Using a Stack
+   <li>✅ 1.2 Running Time and Complexity</li>
+   <li>✅ 1.3 Stock Span Using a Stack</li>
   </ul>
 </ol>
 
-2. Exploring the Labyrinth
-   ✅ 2.1 Graphs
-   ✅ 2.2 Graph Reprepesentaion
-   ✅ 2.3 Depth-first Graph Traversal
-   ✅ 2.4 Breadth-first Search
+<dl>
+  <dt> 2. Exploring the Labyrinth </dt>
+  <dd>✅ 2.1 Graphs</dd>
+  <dd>✅ 2.2 Graph Reprepesentaion</dd>
+  <dd>✅ 2.3 Depth-first Graph Traversal</dd>
+  <dd>✅ 2.4 Breadth-first Search</dd>
+</dl>
 
 3. Compressing
    3.1. Compressing
