@@ -6,10 +6,14 @@ Panos Louridas
 
 My own path to read and understand this book.
 
-1. Stock Spans
-   ✅ 1.1 Algorithms
-   ✅ 1.2 Running Time and Complexity
-   ✅ 1.3 Stock Span Using a Stack
+<ol>
+  <li>1. Stock Spans</li>
+  <ul>
+   <li>✅ 1.1 Algorithms</li>
+   <li>✅ 1.2 Running Time and Complexity
+   <li>✅ 1.3 Stock Span Using a Stack
+  </ul>
+</ol>
 
 2. Exploring the Labyrinth
    ✅ 2.1 Graphs
