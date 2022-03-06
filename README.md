@@ -1,5 +1,7 @@
-**REALWORLD ALGORITHMS**
-**A beginner's guide**
+## **REALWORLD ALGORITHMS**
+
+## **A beginner's guide**
+
 Panos Louridas
 
 My own path to read and understand this book.
@@ -16,23 +18,25 @@ My own path to read and understand this book.
    ✅ 2.4 Breadth-first Search
 
 3. Compressing
-   3.1 Compressing
-   3.2 Trees and Priority Queues
-   3.3 Huffman Coding
-   3.4 Lempel-Ziv-Welch Compression
+   3.1. Compressing
+   3.2. Trees and Priority Queues
+   3.3. Huffman Coding
+   3.4. Lempel-Ziv-Welch Compression
 
 4. Secrets
-   4.1 A Decryption Challange
-   4.2 One-time Pad
-   4.3 The AES Cipher
-   4.4 Diffie-Hellman Key Exchange
-   4.5 Fast and Modular Exponentiation
+
+- [x] 4.1 A Decryption Challange
+- [ ] 4.2 One-time Pad
+- [ ] 4.3 The AES Cipher
+- [ ] 4.4 Diffie-Hellman Key Exchange
+- [ ] 4.5 Fast and Modular Exponentiation
 
 5. Split Secrets
-   5.1 Public Key Cryptography
-   5.2 The RSA Cryptosystem
-   5.3 Message Hashing
-   5.4 Internet Traffic Anonymization
+
+- 5.1 Public Key Cryptography
+- 5.2 The RSA Cryptosystem
+- 5.3 Message Hashing
+- 5.4 Internet Traffic Anonymization
 
 6. Tasks in Order
    6.1 Topological Sort
